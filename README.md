@@ -19,5 +19,11 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />  <img                                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" /> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" />  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40" height="40" /> <br>
     
- 
+  ##
+<p align="center">
+<a href="https://github.com/m4ik-crtl">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m4ik-crtl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m4ik-crtl&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
 
