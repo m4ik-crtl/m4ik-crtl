@@ -9,7 +9,7 @@
 <br>
 <div>
 <a href="https://instagram.com/angel_iyzz" target="_blank"><img align="center" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/maikon-fernando-457b98181/)" target="_blank"><img align="center" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" target="_blank"></a>   
+<a href="[https://www.linkedin.com/in/https://www.linkedin.com/in/maikon-fernando-457b98181](https://www.linkedin.com/in/maikon-fernando-457b98181/)" target="_blank"><img align="center" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" target="_blank"></a>   
 <a href = "mailto:mcharles784@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
