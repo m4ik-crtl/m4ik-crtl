@@ -2,7 +2,7 @@
 
 ## Hello Devs!
 <p align="justify"> 
-Me chamo Maikon, sou um profissional multidisciplinar formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Ciências Contábeis na modalidade a distância. Minha experiência combina habilidades técnicas em tecnologia e automação com expertise prática em contabilidade, legalização empresarial e mercados financeiros. 
+Me chamo Maikon, sou um profissional multidisciplinar formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Ciências Contábeis na modalidade a distância. Minha experiência combina habilidades técnicas em tecnologia e automação. 
 </p>
 
 ---
