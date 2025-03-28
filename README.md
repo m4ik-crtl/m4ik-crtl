@@ -2,7 +2,7 @@
 
 ## Hello Devs!
 <p align="justify"> 
-Me chamo Maikon, sou um profissional multidisciplinar formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Ciências Contábeis na modalidade a distância. Minha experiência combina habilidades técnicas em tecnologia e automação. 
+Me chamo Maikon, sou um profissional multidisciplinar formado em Análise e Desenvolvimento de Sistemas e atualmente cursando um Bootcamp em Análise de Dados. Minha experiência combina habilidades técnicas em tecnologia e automação. 
 </p>
 
 ---
