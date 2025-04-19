@@ -1,5 +1,3 @@
-<img align="right" width="250px" style="margin-top:-20px">
-
 ## 🚀 Olá, Devs! Seja Bem-vindo! 👨‍💻  
 <p align="justify"> 
 Eu sou o **Maikon**, um profissional apaixonado por tecnologia e automação! 💻🎯 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente imerso no mundo da **Análise de Dados** com um Bootcamp. Aqui você vai ver como eu combino minhas habilidades para transformar desafios em soluções inovadoras! 🔧🔍
@@ -19,6 +17,13 @@ Eu sou o **Maikon**, um profissional apaixonado por tecnologia e automação! �
 - 📈 **Power BI**: Desenvolvendo dashboards que contam histórias com dados.  
 - 🐍 **Python**: Programação simples e poderosa para automações incríveis.  
 - 🔗 **API**: Integrando sistemas e facilitando a automação de processos.
+
+#### 🛠️ **Outras Habilidades Técnicas**  
+- 💡 **API calls**, **HTTP Requests**, **JSON**, **Webhook**  
+- 🔄 **Automation**, **Pagination**, **Regex**, **Regular Expressions**  
+- 🗃️ **Data Structures**, **Data Store**, **Date Manipulation**, **Functions**, **Error Handling**  
+- 🔗 **Data Mapping**, **Data Recording**, **Database Development**, **Programming Control Structures**  
+- 🛠️ **No-code**, **URL query**, **Aggregator**, **map()**, **get()**
 
 ---
 
@@ -47,14 +52,14 @@ Acompanhe minhas estatísticas e veja como eu estou crescendo como desenvolvedor
 
 <p align="center">
 <a href="https://github.com/m4ik-crtl">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m4ik-crtl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m4ik-crtl&layout=compact&langs_count=8&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m4ik-crtl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m4ik-crtl&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
 ---
 
-### ✨ **Coisas que me motivam**  
-📚 **Aprendizado Contínuo**: Estou sempre em busca de novos desafios e conhecimentos.  
-🌐 **Comunidade de Desenvolvimento**: Amo colaborar e aprender com a comunidade.
+### 🏅 **Certificações e Habilidades Adicionais**  
+Eu também acumulei diversas certificações na plataforma **Credly**, incluindo habilidades em áreas como **Automação**, **Análise de Dados**, **API**, **Erro Handling**, e mais! Você pode conferir todas as minhas conquistas [aqui no meu perfil Credly](https://www.credly.com/users/maikon-silva).
 
+---
