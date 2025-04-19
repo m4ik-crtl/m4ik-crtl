@@ -1,6 +1,6 @@
 ## 🚀 Olá, Devs! Seja Bem-vindo! 👨‍💻  
 <p align="justify"> 
-Eu sou o **Maikon**, um profissional apaixonado por tecnologia e automação! 💻🎯 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente imerso no mundo da **Análise de Dados** com um Bootcamp. Aqui você vai ver como eu combino minhas habilidades para transformar desafios em soluções inovadoras! 🔧🔍
+Eu sou o Maikon, um profissional apaixonado por tecnologia e automação! 💻🎯 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente imerso no mundo da **Análise de Dados** com um Bootcamp. Aqui você vai ver como eu combino minhas habilidades para transformar desafios em soluções inovadoras! 🔧🔍
 </p>
 
 ---
