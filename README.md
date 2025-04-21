@@ -43,8 +43,8 @@ Eu sou o Maikon, um profissional apaixonado por tecnologia e automação! 💻�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" class="tech-icon" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" class="tech-icon" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" class="tech-icon" />
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" width="40" height="40" class="tech-icon" />
-  <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="40" height="40" class="tech-icon" />
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" width="40" height="50" class="tech-icon" />
+  <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="40" height="50" class="tech-icon" />
 </p>
 
 ---
