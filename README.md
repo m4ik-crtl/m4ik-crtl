@@ -31,6 +31,10 @@ Eu sou o Maikon, um profissional apaixonado por tecnologia e automação! 💻�
 <a align="center" href="mailto:mcharles784@gmail.com">
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
+<p></p>
+<a align="center" href="mailto:maikon.fdasilva@outlook.com">
+<img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+</a>
 
 ---
 
