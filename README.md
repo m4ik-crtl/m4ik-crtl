@@ -35,6 +35,10 @@ Eu sou o Maikon, um profissional apaixonado por tecnologia e automação! 💻�
 <a align="center" href="mailto:maikon.fdasilva@outlook.com">
 <img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
 </a>
+<p></p>
+<a align="center" href="https://www.linkedin.com/in/maikon-silva-457b98181/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ---
 
