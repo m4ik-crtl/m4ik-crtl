@@ -47,12 +47,14 @@ Eu sou o Maikon, um profissional apaixonado por tecnologia e automação! 💻�
 🔧 Ferramentas que uso para transformar ideias em soluções reais:
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" class="tech-icon" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" class="tech-icon" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" class="tech-icon" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" class="tech-icon" />
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" width="60" height="40" class="tech-icon" />
-  <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="60" height="40" class="tech-icon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" class="tech-icon" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" class="tech-icon" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" class="tech-icon" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" class="tech-icon" />
+  <img src="https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png" width="50" height="50" class="tech-icon" />
+  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="50" height="50" class="tech-icon" />
+  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" width="50" height="50" class="tech-icon" />
+  <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" width="50" height="50" class="tech-icon" /> 
 </p>
 
 ---
