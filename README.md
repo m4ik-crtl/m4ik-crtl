@@ -51,7 +51,7 @@ Eu sou o Maikon, um profissional apaixonado por tecnologia e automação! 💻�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" class="tech-icon" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" class="tech-icon" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" class="tech-icon" />
-  <img src="https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png" width="50" height="50" class="tech-icon" />
+  <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="50" height="50" class="tech-icon" />
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="50" height="50" class="tech-icon" />
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" width="50" height="50" class="tech-icon" />
   <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" width="50" height="50" class="tech-icon" /> 
