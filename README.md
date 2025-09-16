@@ -1,35 +1,36 @@
-## 🚀 Olá, Devs! Seja Bem-vindo! 👨‍💻  
-<p align="justify"> 
-Eu sou o Maikon, um profissional apaixonado por tecnologia e automação! 💻🎯 Formado em Análise e Desenvolvimento de Sistemas e atualmente imerso no mundo da Análise de Dados com um Bootcamp na TripleTen. Aqui você vai ver como eu combino minhas habilidades para transformar desafios em soluções inovadoras! 🔧🔍
+## 🚀 Olá! Seja Bem-vindo! 👨‍💻
+<p align="justify">
+Eu sou o Maikon, um profissional de tecnologia apaixonado por automação e dados! 💻🎯 Com formação em Análise e Desenvolvimento de Sistemas e recém-formado no Bootcamp de <strong>Análise de Dados</strong> da TripleTen, meu foco é combinar essas habilidades para transformar desafios em soluções inovadoras e orientadas a dados. 🔧🔍
 </p>
 
 ---
 
 ### 💥 Habilidades Técnicas:
 
-#### 🚀 **Desenvolvimento Web**  
-- 💻 **HTML**: Construindo a base da web com simplicidade e eficiência.  
-- 🎨 **CSS**: Estilizando interfaces atraentes e responsivas.  
-- ⚡ **JavaScript**: Tornando sites interativos e dinâmicos.
+#### 📊 **Análise de Dados e Automação**
+- **Python**: Utilizando bibliotecas como Pandas, NumPy e Matplotlib para análise, manipulação e visualização de dados.
+- **Power BI**: Transformando dados brutos em dashboards interativos e insights acionáveis.
+- **Excel & Power Query**: Otimizando processos e automatizando tarefas complexas para extração e tratamento de dados.
+- **SQL**: Consultando e gerenciando bancos de dados para extrair informações essenciais.
+- **API**: Integrando sistemas e automatizando o fluxo de informações entre diferentes plataformas.
 
-#### 📊 **Automação e Análise de Dados**  
-- 📊 **Excel & Power Query**: Criando planilhas que fazem o trabalho por mim, e com automações que economizam tempo!  
-- 📈 **Power BI**: Desenvolvendo dashboards que contam histórias com dados.  
-- 🐍 **Python**: Programação simples e poderosa para automações incríveis.  
-- 🔗 **API**: Integrando sistemas e facilitando a automação de processos.
+#### 🚀 **Desenvolvimento Web**
+- **HTML**: Construindo a base da web com semântica e eficiência.
+- **CSS**: Estilizando interfaces atraentes e responsivas.
+- **JavaScript**: Adicionando interatividade e dinamismo a aplicações web.
 
-#### 🛠️ **Outras Habilidades Técnicas**  
-- 💡 **API calls**, **HTTP Requests**, **JSON**, **Webhook**  
-- 🔄 **Automation**, **Pagination**, **Regex**, **Regular Expressions**  
-- 🗃️ **Data Structures**, **Data Store**, **Date Manipulation**, **Functions**, **Error Handling**  
-- 🔗 **Data Mapping**, **Data Recording**, **Database Development**, **Programming Control Structures**  
+#### 🛠️ **Outras Habilidades Técnicas**
+- 💡 **API calls**, **HTTP Requests**, **JSON**, **Webhook**
+- 🔄 **Automation**, **Pagination**, **Regex**, **Regular Expressions**
+- 🗃️ **Data Structures**, **Data Store**, **Date Manipulation**, **Functions**, **Error Handling**
+- 🔗 **Data Mapping**, **Data Recording**, **Database Development**, **Programming Control Structures**
 - 🛠️ **No-code**, **URL query**, **Aggregator**, **map()**, **get()**
 
 ---
 
 ## 😄 Curiosidades
 - Café é meu combustível oficial ☕
-- Já fiz automações que economizaram **semanas** de trabalho manual
+- Já criei automações que economizaram **semanas** de trabalho manual.
 - Minha playlist de programação vai de Taylor Swift a rock pesado :)
 
 ---
@@ -54,22 +55,22 @@ Eu sou o Maikon, um profissional apaixonado por tecnologia e automação! 💻�
 🔧 Ferramentas que uso para transformar ideias em soluções reais:
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" class="tech-icon" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" class="tech-icon" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" class="tech-icon" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" class="tech-icon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" class="tech-icon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" class="tech-icon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" class="tech-icon" />
   <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="50" height="50" class="tech-icon" />
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="50" height="50" class="tech-icon" />
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" width="50" height="50" class="tech-icon" />
-  <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" width="50" height="50" class="tech-icon" /> 
-  <img src="https://images.ctfassets.net/dm4oa8qtogq0/4LP1ix40a63dpOPZhila2Z/6d22ac51f33854d1e759e0f5fa3dd210/make-app-icon-circle.png" width="50" height="50" class="tech-icon" /> 
-  <img src="http://browserflow.io/images/N8N-badge.png" width="50" height="50" class="tech-icon" /> 
+  <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" width="50" height="50" class="tech-icon" />
+  <img src="https://images.ctfassets.net/dm4oa8qtogq0/4LP1ix40a63dpOPZhila2Z/6d22ac51f33854d1e759e0f5fa3dd210/make-app-icon-circle.png" width="50" height="50" class="tech-icon" />
+  <img src="http://browserflow.io/images/N8N-badge.png" width="50" height="50" class="tech-icon" />
 </p>
 
 ---
 
-### 📈 **Meu GitHub em Ação**:  
-Acompanhe minhas estatísticas e veja como eu estou crescendo como desenvolvedor! 🌱
+### 📈 **Meu GitHub em Ação**:
+Acompanhe minhas estatísticas e veja minha jornada como desenvolvedor! 🌱
 
 <p align="center">
 <a href="https://github.com/m4ik-crtl">
@@ -79,7 +80,7 @@ Acompanhe minhas estatísticas e veja como eu estou crescendo como desenvolvedor
 </p>
 
 ---
-### 🏅 **Certificações e Habilidades Adicionais**  
-Eu também acumulei diversas certificações na plataforma **Credly**, incluindo habilidades em áreas como **Automação**, **Análise de Dados**, **API**, **Erro Handling**, e mais! Você pode conferir todas as minhas conquistas [aqui no meu perfil Credly](https://www.credly.com/users/maikon-silva).
+### 🏅 **Certificações e Habilidades Adicionais**
+Minha jornada de aprendizado contínuo é validada por diversas certificações, com destaque para a recente conclusão do **Bootcamp de Análise de Dados da TripleTen**. Você pode conferir todas as minhas conquistas em **Automação**, **API**, **Error Handling** e mais [aqui no meu perfil Credly](https://www.credly.com/users/maikon-silva).
 
 ---
