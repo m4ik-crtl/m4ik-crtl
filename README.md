@@ -21,6 +21,7 @@ Eu sou o Maikon, um profissional de tecnologia apaixonado por automação e dado
 
 #### 🛠️ **Outras Habilidades Técnicas**
 - 💡 **API calls**, **HTTP Requests**, **JSON**, **Webhook**
+- 🤖 **Machine Learning**, **RAG (Retrieval-Augmented Generation)**, **Vectorização (scikit-learn)**
 - 🔄 **Automation**, **Pagination**, **Regex**, **Regular Expressions**
 - 🗃️ **Data Structures**, **Data Store**, **Date Manipulation**, **Functions**, **Error Handling**
 - 🔗 **Data Mapping**, **Data Recording**, **Database Development**, **Programming Control Structures**
